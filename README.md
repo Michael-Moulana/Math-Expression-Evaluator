@@ -13,7 +13,7 @@ The **Math Expression Evaluator** is a Java program that allows you to perform m
 
 1. **Clone the Repository:** Clone the repository to your local machine using the following command:
    ```bash
-git clone https://github.com/Michael-Moulana/Math-Expression-Evaluator.git
+   git clone https://github.com/Michael-Moulana/Math-Expression-Evaluator.git
 
 Open the project in your preferred Java development environment (such as Eclipse or IntelliJ IDEA).
 
