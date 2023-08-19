@@ -1,15 +1,18 @@
-Math Expression Evaluator
-The Math Expression Evaluator is a Java program that allows you to perform mathematical calculations and variable assignments through a command-line interface. This program uses the Java standard libraries to handle mathematical expressions and user inputs.
+# Math Expression Evaluator
 
-Features
-Evaluate mathematical expressions involving arithmetic operations (+, -, *, /), parentheses, and exponentiation (^).
-Assign and store variables with numeric values.
-Display the value of specific variables or all variables.
-Interactive command-line interface with user-friendly instructions.
-Usage
-Clone the repository to your local machine using the following command:
+The **Math Expression Evaluator** is a Java program that allows you to perform mathematical calculations and variable assignments through a command-line interface. This program uses the Java standard libraries to handle mathematical expressions and user inputs.
 
-Copy code
+## Features
+
+- Evaluate mathematical expressions involving arithmetic operations (+, -, *, /), parentheses, and exponentiation (^).
+- Assign and store variables with numeric values.
+- Display the value of specific variables or all variables.
+- Interactive command-line interface with user-friendly instructions.
+
+## Usage
+
+1. **Clone the Repository:** Clone the repository to your local machine using the following command:
+   ```bash
 git clone https://github.com/Michael-Moulana/Math-Expression-Evaluator.git
 
 Open the project in your preferred Java development environment (such as Eclipse or IntelliJ IDEA).
@@ -26,12 +29,12 @@ To display values of all variables, simply enter show.
 
 To exit the program, type 0.
 
-Requirements
+## Requirements
 Java Development Kit (JDK) 8 or later.
 
-Contributions
+## Contributions
 Contributions to this project are welcome. If you find any issues or have improvements to suggest, feel free to create a pull request.
 
-License
+## License
 This project is licensed under the MIT License.
 
